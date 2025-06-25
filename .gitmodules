@@ -1,0 +1,3 @@
+[submodule "FinalProject/iBeacon-Localization"]
+	path = FinalProject/iBeacon-Localization
+	url = https://github.com/kerry96164/iBeacon-Localization
